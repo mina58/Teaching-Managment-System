@@ -1,0 +1,11 @@
+.button{
+    -fx-background-color: #2A0080;
+    -fx-background-radius: 0, 0, 0, 0; 
+}
+.button:hover{
+    -fx-background-color: #4019FF;
+}
+.label{
+    -fx-font: "verdana";
+}
+
